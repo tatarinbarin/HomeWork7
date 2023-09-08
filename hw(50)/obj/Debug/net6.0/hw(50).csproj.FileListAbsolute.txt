@@ -1,0 +1,15 @@
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\bin\Debug\net6.0\hw(50).exe
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\bin\Debug\net6.0\hw(50).deps.json
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\bin\Debug\net6.0\hw(50).runtimeconfig.json
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\bin\Debug\net6.0\hw(50).dll
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\bin\Debug\net6.0\hw(50).pdb
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).csproj.AssemblyReference.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).AssemblyInfoInputs.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).AssemblyInfo.cs
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).csproj.CoreCompileInputs.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).dll
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\refint\hw(50).dll
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).pdb
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\hw(50).genruntimeconfig.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HW7\hw(50)\obj\Debug\net6.0\ref\hw(50).dll
